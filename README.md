@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Jorge Lopes 👋
+
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://www.php.net/)
+[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)](https://www.javascript.com/)
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-black?style=for-the-badge&logo=codeigniter)](https://codeigniter.com/)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/3.0.x/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
 <!--
 **jlopes90/jlopes90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
